@@ -21,4 +21,4 @@ It compares **analytical formulas** with **empirical simulation results** and vi
 - Matplotlib  
 - Pandas  
 
-
+This project demonstrates how Monte Carlo simulation can be used to estimate portfolio risk (VaR & ES), bridging the gap between theoretical risk formulas and empirical simulations.
