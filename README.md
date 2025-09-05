@@ -14,7 +14,7 @@ It compares **analytical formulas** with **empirical simulation results** and vi
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 - Python  
 - NumPy  
 - SciPy  
